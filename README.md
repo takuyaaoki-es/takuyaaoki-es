@@ -60,6 +60,12 @@ Positions SOIH, ORKH, and EARH together as a single epistemic stage in which hum
 
 **DOI:** https://doi.org/10.5281/zenodo.22986516
 
+### Structural Principles of Inter-Intelligence Intermediary Syntax (SP-IIIS)
+
+Clarifies the structural principles of IIIS: shared reference, observer-relative representation, and structured reinterpretability across different Observer Intelligences.
+
+**DOI:** https://doi.org/10.5281/zenodo.23116534
+
 ## Implementation
 
 ### VATES
