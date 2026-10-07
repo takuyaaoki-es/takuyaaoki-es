@@ -70,7 +70,7 @@ Clarifies the structural principles of IIIS: shared reference, observer-relative
 
 Proposes that perceptual and representational differences among Observer Intelligences can be used as a collaborative resource rather than converged into a shared Interpretation.
 
-Introduces a Native Alternation Cycle in which different Observers externalize their Interpretations as re-observable Structures, allowing successive re-observation across different native spaces.
+Introduces a Native Alternation Cycle in which collaborators periodically return to each Observer's native space through a shared intermediate structure, rather than converging their differences into a single common form.
 
 **DOI:** https://doi.org/10.5281/zenodo.23201305
 
