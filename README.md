@@ -66,6 +66,14 @@ Clarifies the structural principles of IIIS: shared reference, observer-relative
 
 **DOI:** https://doi.org/10.5281/zenodo.23116534
 
+### Heterogeneous Observer Collaboration (HOC)
+
+Proposes that perceptual and representational differences among Observer Intelligences can be used as a collaborative resource rather than converged into a shared Interpretation.
+
+Introduces a Native Alternation Cycle in which different Observers externalize their Interpretations as re-observable Structures, allowing successive re-observation across different native spaces.
+
+**DOI:** https://doi.org/10.5281/zenodo.23201305
+
 ## Implementation
 
 ### VATES
